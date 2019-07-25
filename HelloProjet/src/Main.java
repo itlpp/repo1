@@ -4,7 +4,7 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
-        System.out.println("修改");
+        System.out.println("冲突");
     }
     @Test
     public void testHello() {

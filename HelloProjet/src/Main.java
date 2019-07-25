@@ -4,10 +4,11 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
-        System.out.println("HelloWor555ld!");
+        System.out.println("修改");
     }
     @Test
     public void testHello() {
         System.out.println("HelloWorld!");
     }
+
 }
